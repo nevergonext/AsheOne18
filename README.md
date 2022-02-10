@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1>👋 Here is Ashe</h2>
 
-<!--
-**AsheOne18/AsheOne18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **I am currently doing Web development.**
 
-Here are some ideas to get you started:
+🌟 **Focus on using `Spring framework` / `React` / `Vue`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐢 **A superficial understanding of `QtCreate`**
+
+<h2>🍀 Language </h2>
+
+- **C++ / Java / Html5 / Css3 / Scss / JavaScript / Go / Sql / Shell**
+
+<h2>🌿 Framework </h2>
+
+- **Spring5 / SpringMVC / SpringBoot / SpringCloud / SpringDataJPA / Mybatis / Mybatis-Plus / QtCreate / React / Vue / Bootstrap**
+
+<h2>🌱 Related Stack </h2>
+
+- **PageHelper / Jquery / PageHelper / Thymeleaf / Element-UI / Tailwind**
+
+<h2>🌼 DataBase </h2>
+
+- **Mysql / Redis**
+
+<h2>🎋 Environment </h2>
+
+- **Win / Mac / Linux / Node.js / Docker / All of JetBrain**
