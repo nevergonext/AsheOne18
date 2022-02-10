@@ -16,7 +16,7 @@
 
 <h2>🌱 Related Stack </h2>
 
-- **PageHelper / Jquery / PageHelper / Thymeleaf / Element-UI / Tailwind**
+- **PageHelper / Jquery / Thymeleaf / Element-UI / Tailwind**
 
 <h2>🌼 DataBase </h2>
 
